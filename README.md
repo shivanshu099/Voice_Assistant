@@ -3,6 +3,8 @@ this repository showcases my project on creating a  Voice_Assistant using Python
 
 
 
+## Getting Started
+Fork and clone this repository
 
 ## Screenshots
 
